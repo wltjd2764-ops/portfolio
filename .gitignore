@@ -1,0 +1,6 @@
+# 포트폴리오 원본 자료 보관용 폴더. GitHub에 올라가지 않는다.
+_자료/
+
+__pycache__/
+.DS_Store
+Thumbs.db

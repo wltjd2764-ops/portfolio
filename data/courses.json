@@ -1,0 +1,345 @@
+[
+  {
+    "slug": "01-01",
+    "name": "수학1",
+    "semester": "2023년 1학기",
+    "category": "교양필수",
+    "credits": 3
+  },
+  {
+    "slug": "01-02",
+    "name": "일반물리1",
+    "semester": "2023년 1학기",
+    "category": "교양필수",
+    "credits": 3
+  },
+  {
+    "slug": "01-03",
+    "name": "일반물리실험1",
+    "semester": "2023년 1학기",
+    "category": "교양필수",
+    "credits": 1
+  },
+  {
+    "slug": "01-04",
+    "name": "생활영어1",
+    "semester": "2023년 1학기",
+    "category": "교양필수",
+    "credits": 3
+  },
+  {
+    "slug": "01-05",
+    "name": "진로설계와자기이해",
+    "semester": "2023년 1학기",
+    "category": "교양필수",
+    "credits": 2
+  },
+  {
+    "slug": "01-06",
+    "name": "주거형태와문화",
+    "semester": "2023년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "01-07",
+    "name": "기초설계스튜디오1",
+    "semester": "2023년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "02-01",
+    "name": "수학2",
+    "semester": "2023년 2학기",
+    "category": "교양필수",
+    "credits": 3
+  },
+  {
+    "slug": "02-02",
+    "name": "일반물리2",
+    "semester": "2023년 2학기",
+    "category": "교양필수",
+    "credits": 3
+  },
+  {
+    "slug": "02-03",
+    "name": "일반물리실험2",
+    "semester": "2023년 2학기",
+    "category": "교양필수",
+    "credits": 1
+  },
+  {
+    "slug": "02-04",
+    "name": "성찰과소통을위한글쓰기",
+    "semester": "2023년 2학기",
+    "category": "교양필수",
+    "credits": 3
+  },
+  {
+    "slug": "02-05",
+    "name": "한국사",
+    "semester": "2023년 2학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "02-06",
+    "name": "경제학개론",
+    "semester": "2023년 2학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "02-07",
+    "name": "예술감성과미학",
+    "semester": "2023년 2학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "03-01",
+    "name": "서양문학기행",
+    "semester": "2024년 1학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "03-02",
+    "name": "정역학 (영어 30%)",
+    "semester": "2024년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "03-03",
+    "name": "건축환경공학 (영어 30%)",
+    "semester": "2024년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "03-04",
+    "name": "건축개론",
+    "semester": "2024년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "03-05",
+    "name": "공학수학1",
+    "semester": "2024년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "03-06",
+    "name": "창의설계입문",
+    "semester": "2024년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "03-07",
+    "name": "전산기초",
+    "semester": "2024년 1학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "04-01",
+    "name": "분쟁의세계지리",
+    "semester": "2024년 하계 계절학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "05-01",
+    "name": "건축환경조절시스템설계 (영어 30%)",
+    "semester": "2024년 2학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "05-02",
+    "name": "건축공법및구법설계 (영어 30%)",
+    "semester": "2024년 2학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "05-03",
+    "name": "전산응용",
+    "semester": "2024년 2학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "05-04",
+    "name": "재료역학 (영어 30%)",
+    "semester": "2024년 2학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "05-05",
+    "name": "공학수학2",
+    "semester": "2024년 2학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "06-01",
+    "name": "36.5도의윤리학",
+    "semester": "2024년 동계 계절학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "06-02",
+    "name": "소비자학",
+    "semester": "2024년 동계 계절학기",
+    "category": "일반선택",
+    "credits": 3
+  },
+  {
+    "slug": "07-01",
+    "name": "로마문화와함께배우는교양라틴어",
+    "semester": "2025년 1학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "07-02",
+    "name": "건축구조역학1",
+    "semester": "2025년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "07-03",
+    "name": "건축설비",
+    "semester": "2025년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "07-04",
+    "name": "철근콘크리트구조설계1",
+    "semester": "2025년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "07-05",
+    "name": "건축적산및연습 (영어 30%)",
+    "semester": "2025년 1학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "07-06",
+    "name": "건축공학설계",
+    "semester": "2025년 1학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "08-01",
+    "name": "기초통계학 (영어 100%)",
+    "semester": "2025년 하계 계절학기",
+    "category": "교양필수",
+    "credits": 3
+  },
+  {
+    "slug": "08-02",
+    "name": "철학과삶",
+    "semester": "2025년 하계 계절학기",
+    "category": "교양선택",
+    "credits": 3
+  },
+  {
+    "slug": "09-01",
+    "name": "건축시공학",
+    "semester": "2025년 2학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "09-02",
+    "name": "구조시스템",
+    "semester": "2025년 2학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "09-03",
+    "name": "철골구조설계1 (영어 100%)",
+    "semester": "2025년 2학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "09-04",
+    "name": "건축음향",
+    "semester": "2025년 2학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "09-05",
+    "name": "토질및기초공학",
+    "semester": "2025년 2학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "09-06",
+    "name": "창의적건축공학설계",
+    "semester": "2025년 2학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "09-07",
+    "name": "핵심취·창업전략",
+    "semester": "2025년 2학기",
+    "category": "일반선택",
+    "credits": 2
+  },
+  {
+    "slug": "10-01",
+    "name": "공학실무인턴십",
+    "semester": "2026년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "10-02",
+    "name": "건축공학종합설계1 (캡스톤디자인)",
+    "semester": "2026년 1학기",
+    "category": "전공필수",
+    "credits": 3
+  },
+  {
+    "slug": "10-03",
+    "name": "건설경영",
+    "semester": "2026년 1학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "10-04",
+    "name": "스마트건축시스템",
+    "semester": "2026년 1학기",
+    "category": "전공선택",
+    "credits": 3
+  },
+  {
+    "slug": "11-01",
+    "name": "생활응용컴퓨터",
+    "semester": "2026년 하계 계절학기",
+    "category": "교양선택",
+    "credits": 3
+  }
+]

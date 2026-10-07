@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "ai-portfolio-site",
+    "ai": true,
+    "title": "AI로 만든 포트폴리오 웹사이트 · 건축 뉴스 자동 수집",
+    "period": "2026.10",
+    "type": "AI 활용",
+    "team": "개인",
+    "tools": [
+      "Claude Code",
+      "GitHub Pages",
+      "GitHub Actions"
+    ],
+    "result": "지금 보고 있는 이 사이트",
+    "tags": [
+      "웹사이트",
+      "자동화",
+      "Claude Code"
+    ],
+    "summary": "AI 코딩 도구에 요구사항을 설명해 포트폴리오 사이트를 만들고, 건축·건설 뉴스를 매일 자동으로 모으는 기능까지 구현"
+  },
+  {
+    "slug": "ai-geofoundation",
+    "ai": true,
+    "title": "시추주상도 기반 지반 3D 시각화 · 기초 추천 앱",
+    "period": "2026.05",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "Google Antigravity",
+      "Gemini",
+      "Netlify"
+    ],
+    "result": "웹 앱 배포",
+    "tags": [
+      "지반공학",
+      "기초설계",
+      "3D 시각화"
+    ],
+    "cover": "assets/ai/geofoundation/app.webp",
+    "summary": "시추주상도를 넣으면 지층을 3D로 보여주고, 상부 하중에 맞춰 얕은 기초 · 깊은 기초를 추천하고 안전율을 실시간으로 계산하는 앱"
+  },
+  {
+    "slug": "ai-job-news",
+    "ai": true,
+    "title": "공기업 동향 뉴스 자동 수집 (Apps Script)",
+    "period": "2026.05",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "Google Apps Script",
+      "네이버 검색 API"
+    ],
+    "result": "매일 아침 8시 자동 수집",
+    "tags": [
+      "취업 준비",
+      "자동화",
+      "공기업"
+    ],
+    "cover": "assets/ai/job-news/sheet.webp",
+    "summary": "LH · 한수원 · 한전 · 캠코 등 희망 공기업 관련 키워드 8개로 기사를 매일 자동으로 모아 스프레드시트에 정리"
+  },
+  {
+    "slug": "ai-matlab-ml",
+    "ai": true,
+    "title": "MATLAB 머신러닝 — 공룡 식성 분류와 과적합 찾기",
+    "period": "2026.04",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "MATLAB Classification Learner",
+      "Kaggle"
+    ],
+    "result": "최종 정확도 88.1% (데이터 누수 제거 후)",
+    "tags": [
+      "머신러닝",
+      "분류 모델",
+      "과적합"
+    ],
+    "cover": "assets/ai/matlab-ml/importance-final.webp",
+    "summary": "몸길이와 생존 시기만으로 공룡의 식성을 분류하는 모델을 만들며, 정답을 미리 알려주는 변수(데이터 누수)를 하나씩 찾아 제거"
+  },
+  {
+    "slug": "ai-promo-poster",
+    "ai": true,
+    "title": "건축공학 홍보 포스터 · TMD 홍보 영상",
+    "period": "2026.04",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "ChatGPT",
+      "Gemini",
+      "Adobe Firefly",
+      "Vrew"
+    ],
+    "result": "포스터 시안 다수 · 1분 홍보 영상",
+    "tags": [
+      "생성형 이미지",
+      "영상 제작",
+      "전공 홍보"
+    ],
+    "cover": "assets/ai/promo-poster/poster-chatgpt.webp",
+    "summary": "'건축공학은 설계와 뭐가 다르냐'는 질문에서 출발한 전공 홍보 포스터와, 동조질량감쇠기(TMD)를 소개하는 숏폼 영상 제작"
+  },
+  {
+    "slug": "ai-brand-logo",
+    "ai": true,
+    "title": "창업 브랜드 네이밍 · 로고 · 인트로 영상 (나무병원)",
+    "period": "2026.03",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "생성형 이미지 AI",
+      "MiriCanvas AI",
+      "생성형 영상 AI"
+    ],
+    "result": "이름 후보 9개 · 로고 · 인트로 영상",
+    "tags": [
+      "브랜딩",
+      "로고",
+      "영상"
+    ],
+    "cover": "assets/ai/brand-logo/hearim.webp",
+    "summary": "가업인 나무병원을 주제로 회사 이름, 로고, 인트로 영상을 AI로 만들고 후보를 비교하며 다듬기"
+  },
+  {
+    "slug": "ai-synctime",
+    "ai": true,
+    "title": "약속 조율 앱 SyncTime · 공룡검색기",
+    "period": "2026.03",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "Gemini",
+      "Google AI Studio",
+      "Firebase",
+      "Netlify"
+    ],
+    "result": "웹 앱 2개 배포",
+    "tags": [
+      "앱 제작",
+      "프롬프트 설계"
+    ],
+    "cover": "assets/ai/synctime/main.webp",
+    "summary": "여러 사람이 가능한 시간을 입력하면 모두가 되는 시간을 찾아주는 약속 조율 앱을, 프롬프트를 설계해 AI로 제작"
+  },
+  {
+    "slug": "ai-dino-report",
+    "ai": true,
+    "title": "특정 주제 심층 보고서 · 인포그래픽 — 공룡 복원",
+    "period": "2026.03",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "Gemini Deep Research",
+      "NotebookLM",
+      "Gemini Canvas"
+    ],
+    "result": "심층 보고서 · 인포그래픽 · 개인 발표",
+    "tags": [
+      "리서치",
+      "인포그래픽",
+      "발표"
+    ],
+    "cover": "assets/ai/dino-report/infographic.webp",
+    "summary": "'공룡 외형 복원 기술'을 주제로 AI 심층 리서치 보고서를 만들고 인포그래픽과 인터랙티브 버전까지 제작"
+  },
+  {
+    "slug": "ai-wall-plumbness",
+    "ai": true,
+    "title": "AI로 풀어볼 건설 문제 — 벽체 수직도 자동 판정",
+    "period": "2026.03",
+    "type": "AI 활용",
+    "team": "개인",
+    "context": "2026-1 건축공학종합설계1 (캡스톤디자인)",
+    "tools": [
+      "CNN (ResNet-50 · VGG16)",
+      "UAV LiDAR"
+    ],
+    "result": "자동 분류 프레임워크 제안",
+    "tags": [
+      "품질관리",
+      "컴퓨터 비전",
+      "아이디어 제안"
+    ],
+    "cover": "assets/ai/wall-plumbness/framework.webp",
+    "summary": "골조 공사의 벽체 수직도를 드론 LiDAR로 측정하고 CNN으로 정상 · 배부름 · 기울어짐을 자동 판정하는 품질관리 기법 제안"
+  },
+  {
+    "slug": "turbidity-fines",
+    "title": "탁도 기반 잔골재 미립분 함유량 추정 및 실시간 판정 시스템 개발",
+    "period": "2026",
+    "type": "졸업작품",
+    "team": "유은지, 안예린, 장지성",
+    "result": "건축학부 졸업작품전 우수상",
+    "tags": [
+      "건설재료",
+      "잔골재",
+      "품질관리",
+      "센서"
+    ],
+    "summary": "잔골재에 섞인 미립분 함유량을 탁도로 추정하고, 사용 가능 여부를 실시간으로 판정하는 시스템"
+  },
+  {
+    "slug": "origami-shelter",
+    "title": "재난안전취약계층을 위한 오리가미 화재 대피소",
+    "period": "2025",
+    "type": "공모전",
+    "team": "배주현, 고아현, 안예린, 장지성 · 지도교수 양강혁",
+    "result": "한국건설관리학회 건설아이디어 유튜브 경진대회 우수상",
+    "tags": [
+      "재난안전",
+      "대피소",
+      "오리가미 구조",
+      "영상"
+    ],
+    "summary": "화재 시 재난안전취약계층이 빠르게 몸을 피할 수 있도록 접이식(오리가미) 구조를 활용한 대피소 아이디어"
+  }
+]
