@@ -1,13 +1,13 @@
 <!--
 교과목 기록 템플릿.
 1) 이 파일을 복사해 courses/<영문-슬러그>.md 로 저장
-2) data/courses.json 에 항목 추가: slug, name, semester("3학년 1학기"), category, credits, grade, professor(선택)
+2) data/courses.json 에 항목 추가: slug, name, semester("3학년 1학기"), category, credits, professor(선택) — 성적은 비공개라 넣지 않음
 3) 과제 · 자료 파일은 assets/courses/<슬러그>/ 폴더에 넣고 아래에서 링크
 -->
 
 ## 과목 소개
 
-어떤 내용을 다루는 과목인지 1~2문장.
+어떤 내용을 다루는 과목인지 1–2문장.
 
 ## 배운 것
 
