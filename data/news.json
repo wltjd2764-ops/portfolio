@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:35:35.390612+00:00",
+  "updated": "2026-10-31T01:26:06.464946+00:00",
   "categories": [
     "건설경기",
     "수주",
@@ -9,200 +9,396 @@
   ],
   "items": [
     {
-      "title": "[3Q실적] GS건설 영업익 955억원, 전년比 35.7% 감소…수주실적 '견조'",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sQk1rWTg1Z2VheVJpQ3RCNzUxaVhPb2NJRjVINmpyZkx4aEpNTTllSUdFQURGcjdETjJ6c21PbzFqQS1oSTU4aUJDZVZGeG8zWWFrcmh4SkFBdVNFc0hGWmtTbVBSZk5KR2w4VWF3ZC0xRzJt?oc=5",
-      "source": "파이낸셜포스트",
-      "published": "2026-10-30T01:28:49+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "GS건설, 3분기 실적 감소했지만 수주 선방 外",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMFVteDQtclYyOWItd3YtWXRVY1BCTnY0VE1XUUJYYUVfNmFrMF9waE5YbDY3dko3NUk3aUo5NVJtaE5kZU8tZ1JYWFpXa2s?oc=5",
-      "source": "톱데일리",
-      "published": "2026-10-30T01:21:00+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "[특별칼럼] 건축법 전부개정, 조문 정비를 넘어 건축법의 중심성을 확립해야",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tQW1HRGpxLV9hY3pDT0lsVGY3UmI3TTAxdWNKS0U0QkFtemo2Y1hPWjk3dTRKNkxrdWVZMXA2QmJ1cXJ4MUM2QXd5aWpaMVdTVWU0UUc3TzJUNFp4anNFUFhMdW5CckU?oc=5",
-      "source": "대한건축사협회 건축사신문",
-      "published": "2026-10-30T01:20:57+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "체코 원전 시공계약 결렬…한수원 \"1조원 넘는 증액 요구\" 신규 입찰 추진",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rTkdnelFkelVhVElobDIzdzkwUUIzc01FM2tjVEpjWC1GSnI3YlpSLTJYYjQxQ1l6VkpCOVp0OFlRWXlwWENsbGplTkl0LS1ObmZyRzFnUWhDVnlRTU94SDRBUlFjT1dJ?oc=5",
-      "source": "CBC뉴스",
-      "published": "2026-10-30T01:15:04+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "대우건설 4.99% 하락 1만1040원…체코 원전 협상 결렬에 KB증권 목표주가 하향",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51X00xbTlFUkhmZndYTzlLZnA3R0c5aC1aWTBlNUx1ZGI1TWcySnhtZ1V4ampzRFp1ZmUtRGFhUXVWYTBVUXloQVVKWmttck1aSVVEb1pybDhvMjJxWDc2Zml1d3EzejBY?oc=5",
-      "source": "CBC뉴스",
-      "published": "2026-10-30T01:14:32+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "체코 원전 수주 불발에 3조 증발…\"과도한 낙폭\"",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42M19mWHMxR3Q1OU5Vd0RUcHUyTE0xNlBFV29McWNtNFMyVU53LWhfR3BLUU83YzJQbzlOcUdHZ0pzaTFTRGlST0E5dEZyM19FcFFaaF8zd2lBckxDX0RoTUVYUTRRUQ?oc=5",
-      "source": "데일리메이커",
-      "published": "2026-10-30T01:13:46+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "두산에너빌리티 \"주기기 정상\"…27조 체코 원전 시공 결렬",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZlF0NVhBcEhCbl9qUTlPa3BLYXo1dEtGWUExd2pMM1N1NWpwZ01xZkh4dDlmc1E2aXRfT284a0lPTFFnMEdGYTJlbVFsQ00zWmtrWUdiVldKbmdNd0MzNWJnb203NTg?oc=5",
-      "source": "자본시장뉴스",
-      "published": "2026-10-30T01:05:00+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "GS건설, 3분기 영업이익 955억원…신규 수주 3조9584억원",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VY29PUFNXaEUyMU90clVLcGhMVXZrZWozUVZra1lrRXB0Q1poajdfUFoxMFNQWWZqY0E5b2pmdDJPaFlOMG1zYlJ6LWY3VnJjSlRmVHRrUmtBd9IBWEFVX3lxTE9RMW1IUjByd1Y0WnJ1NFRVYVNlY3J2c1ZSekZiSFktb0RtZUpia2d2ZlVJN0hkSEpxeWRVOUpMS1MtX2RtZkdpWkM3ZXV5Vy1CUkUwLV95OUg?oc=5",
-      "source": "아주경제",
-      "published": "2026-10-30T01:04:05+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "건설업 종사자 2개월 연속 감소...9월 1만4000명 줄어",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVZGtQTFRldUpXMHBnUThaenY0RnlHakxubkpuRGh2RkN2VU5YNnBERWNmc1MxNXgybmhGSURJdTQ1Wi1pY2hOXzRRRHZGV052ZVNZY1MxdXN1REt0Zmk1NEd3c1NPZzdPYk5sQw?oc=5",
-      "source": "기계설비신문",
-      "published": "2026-10-30T01:02:16+00:00",
+      "title": "청주시, 지역건설산업 활성화를 위해 민·관 업무협약 체결",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pSjhSN1FNNzdyVHUyNnpDLU55bWJaN2RzNE1RNFR5bTgycUxhdkdISmxyUXdqOGt5VWtDMGl3cXRxeEdkdHEweFFjVklkREM1N3l6bXlCQzVTRmdCWHZMUg?oc=5",
+      "source": "충남도민일보",
+      "published": "2026-10-31T01:13:49+00:00",
       "category": "건설경기"
     },
     {
-      "title": "GS건설, 신규수주 약 3.9조···영업익 955억 기록",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NVDJyMkctYWIwblUtQjZCVURMTFhKTG1tYnRPdzd2TGNObUdIV2JfMGxiNm14ZXZpakk0aFNtQlRCQ1huX0hmRVRmaW1pV21yV2YwQTZ1RXdvTXJoY1pxcVpXc0NoVVdzaGwtRF9LRG_SAXRBVV95cUxOcWthS3M2dFZpVlNmbDJ4MFNqdFNwQ2cwU3B6dHRSYzc4SV8wNW03S09lR1FuSWpTcGpDX3R5MmlfSWRkU0FldFRNR1RjVHRsenZlUDhudVlVWjVLakhQYWNRWVVlbUxyUkV0THREM21uZ0lrQg?oc=5",
-      "source": "이뉴스투데이",
-      "published": "2026-10-30T01:00:21+00:00",
-      "category": "수주"
+      "title": "美 NRC, 텍사스 차세대 SMR 안전성 평가 완료… 상업용 공정열 원전 시대 ‘성큼’",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TZFRJdVV1OG54d2NTOWtoWlp0X25qWnFhUWFtbGNDSFV0WUtCcDhtMFJEVjJsRUxDa1JmSTNseGlYRC04Rm5nbU44a0x0b3dwQjZramtDRlRjSzFJZGhxV1pGZ2tmOHZRSHlR?oc=5",
+      "source": "독립신문",
+      "published": "2026-10-31T00:05:28+00:00",
+      "category": "원전·특수건축"
     },
     {
-      "title": "팬앤코, 대우건설 아파트 실링팬 공급계약 수주",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUFhmeVFrVWQ1MWJBdFdYY0ZhckwwT1RXSWFwQzJLX2ZyS3FweWNHMUFwWmVmQUFyY3JSank1RUh4Ulk4Ui1DalVWcUk1THdWM1NYcGk5QkREVTRZSGtDRFpnRVBFNGlndHZkTk9jRHdidU03RzFVM1phZHVwaFhXdg?oc=5",
-      "source": "이데일리",
-      "published": "2026-10-30T00:44:02+00:00",
-      "category": "수주"
+      "title": "[이슈] 체코 원전 '책임 공방' 시동…시공사 바꿔도 위험 분담 숙제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5NUtrRHBlSk00NDZpbkpQQldETXVDUml2R1pHSkNfV0xrUUNtM0NSMTZ4Nm1rRDBkV2xRcHFWeGpQV3ZhalBVMG5fQXMxZk8yMzRiczZQTEsxX3dZZGs4N1Vtc1FUR242YXFtblZSMA?oc=5",
+      "source": "시사포커스",
+      "published": "2026-10-31T00:00:00+00:00",
+      "category": "원전·특수건축"
     },
     {
-      "title": "GS건설, 3분기 영업이익 955억원⋯전년 대비 35.7% 감소",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pLUJPYk1jVDl3RzZOcm12V2IxZTQzcm5DakdYOHBiODhHRHZGZFFxN1k0UkZocWw0NEJZLWVaUW1SWURtODZmd0lUSktWODFfVmRYeQ?oc=5",
+      "title": "러시아 로사톰, 아프리카 4개국과 대형 원전 건설 협의 추진",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjIxNTNuYmEtYk0xdHE1dTlFZXgxc19kMU5XbXAyYjlmOUR6WUViVG1oclZxNTluSElRNVN6NXVvSUVMN3duT21DT3pQZHlfbnVmeTJTZ29sZFNHRkhKUWZBdjBuSmNyU0Y5b3VNWXlsVkcwd3RqLW1lci03OURGcVZvTkFRNUF5?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-10-30T23:19:13+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "대우건설, 체코 원전 시공계약 파기에 '일방적 협상 종료' 반발…재협상 가능한가",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rdmNNN3pELWttTkhiVWp3YlFnSFdUNGZjVThIM1VMZkdlYVBOOTdsSEJmRm00ZjlEdWZVbWNmaUNYSWtGeU9Kc1I4N0w4UEtDSDJjb24zbGZUbXc5S0dHWk5NbE54Y0NWTExnZ3hUTHXSAXRBVV95cUxNeDkwMEV6MFg0RU5SaGJOckJ2VzRiNDBPTlI2OTh6M294eDFtX2RiS1NkTVhEUXhGRHpMa08yeXhPN3ozakUzbE13WGpjYjlSTTNPQm9MZVVTWUd0OC1qOVZMaGJhNERZejFPVzBXWUxkNXdCag?oc=5",
+      "source": "스포츠한국",
+      "published": "2026-10-30T23:00:00+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "체코 원전 '팀코리아' 결국 균열…한수원, 대우건설·두산에너빌리티와 협상 결렬",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84cTJ3REFMMU8xcjdFV1NMY29BNWtnNUs2aHJTYi1RQ2ZIV3kwWjZaZXl0bDItU2VMbjIxWDVzT2xXYXVyQURDRnpRY1hjSDZjeWVIYlJ5YVBXcGVzRnp3TUxJNnhOc3NO?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-10-30T22:18:47+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "체코 시공사 갈등에 출렁인 원전주…‘AI 전력난·美 18기’에 밸류에이션 르네상스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDMnFmekt5V0Rjak5RMzBGVGZnOHNiRGpQckdXdzBfQV9odzlOWUtGMVlPSms5dzA1Uk96d3IwaWtUbXZDdGxqM3ZrT1dmQmU0S2lEQw?oc=5",
       "source": "이투데이",
-      "published": "2026-10-30T00:42:00+00:00",
+      "published": "2026-10-30T22:00:00+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "체코전력공사, 한수원 24조원 원전 시공사 결렬에 \"일정 차질 없다\"",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FUjlROVBmODgxREtibFBkbFpYS003eFRMcGotM0loTkdpMUdFbmQ0MUo4Q2h0T3pOZzNTR3luejlrTFh2TVlnUHFfX3lacldIMjdnWWw3UWd4YVBFSmlpelFtX2JwOU1uYW1J?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-10-30T20:20:00+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "‘NES 2026’, 글로벌 원전시장 진출 위한 협력의 장 마련",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44MnRuYUQ0c2tFUllsRlNKUml6UTNYc1c4NVk5OWRpRGE1SmdUNVYzWFgxWG1tZ2V6TFM1TWZCazl3LXlVaU5PU3JtWUFaZ2VHcE9MMkN6VHliRjdwZGFzR1pNTUVnMWNQ?oc=5",
+      "source": "발전산업신문",
+      "published": "2026-10-30T17:25:56+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "대구 건설업, 4곳 중 3곳 수주 감소·수익성 악화 ‘이중고’",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JVy1laEljbnBJcy05ZnVESzZpa05XMUhhMUg5UzgxMS1rcm13WnBnQXZZUnBRTU9IS09tQUR5aGs1THlfdkIybnR2dFlibmZTc2J5Yk1ObDY?oc=5",
+      "source": "경북신문",
+      "published": "2026-10-30T15:41:20+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "케펠이 2026년 베트남 부동산 가치 사슬 어워드에서 두 부문 상을 수상했습니다.",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTRrbzRfOGRDYWhqdk01N3l1cFdtUWN2T3ZkSlBNSHpvdE5PYjdBdEQ0dTZ2R045MDZtZHR2eklHZmxaWkVNUS1ZcnFTOFBrZVg5N0VfaHBqNVlqRXFEZEpvQ2tTYS00aFJTVEYzbFRlYjJXRlR1UTk4TWxqZl9TZ0syQXBWSUdtS0xydHhTay1iVlpMOWlIOGhPWldlOUctWnYycG1lQm8?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-30T14:39:02+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "현대건설, 3분기 영업익 2217억원 전년비 114% 급증 … 수익성 개선 속 수주잔고 100조원 육박",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43VTBVTnExN3QyUWZRQXkxWWpkNjlBblk0V0N5TnJBTmNxY1ExQ2prdF9mSlpFaHNPX0dIT2RfbHQzM1FtMnRWdE1IZ2t5TjlyMUhTUFZVLS1fWnlXVnA3U2IydEpDNnZKXzktYw?oc=5",
+      "source": "워크투데이",
+      "published": "2026-10-30T14:28:04+00:00",
       "category": "수주"
     },
     {
-      "title": "'팀코리아' 체코 원전 시공협상 결렬…대우건설 \"설계 리스크까지 시공사 부담은 무리\"",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fUUhDbjNUQ01ZdFA4d2JnQk1FTzVMWlJhQzVCc1gyTkdwNld4MTd0WXotcWFSZmpKUUhlSHB4TXVoQ2d0Yk5odVVOOXNGbEp0Q29nOHhmRHdHRVdfcjVtUFFJNTFsUHRz?oc=5",
+      "title": "서산시, 인지초 생활SOC 학교시설 복합화사업 속도 낸다!",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FUU9qRktadVRvcDFlVDUwamlIdXBtNlVOam9RcXplSDVJdXV3YzBJc2VzNnNrNUxkcENJNWJraUFTckRWNWtjRUIzdDcwdGJUS1cwOElMUnJoaTFJOEh5MjQtV2w0dw?oc=5",
+      "source": "엠뉴스",
+      "published": "2026-10-30T12:24:21+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "청주시, 민·관 ‘지역건설산업 활성화’ 협약",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MbHVtaDhfUjhMY2duOERBenNKUVg0bTcxSkJIV2stWF91R2RpWGNheEF1NGJtYzJ3ZzJzS2RGMzhzMWt4dkFMRHZmUG5rOXcyY3NQMmtvbDlCX3d2ZThZMlAxbFRsdzlNUTlfYzdB0gFwQVVfeXFMT1RHTXJPcXZxcVg2U0oyT3NYZlBWSHRseHBEaXJIdjZuX3BGTDBJUU1BcUJURGFzaHZLY0U1eG1hUEZ6VFpoWkdTbFBRRFNUVHJzZDFPalozMUZUcEhrQ1J0RUVZQVJfb3VGWkxjVExyQw?oc=5",
+      "source": "내외뉴스통신",
+      "published": "2026-10-30T11:47:44+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "베트남 원전 속도 낸다…페트로베트남, 韓 6개사와 협력 논의",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXaGdXQ25XZUZxR2hQdVdySG1QaVpCQ0JfQ2JDX3p3X085T0dFX0gtelY0M2lZUm50WmNMbVkxM3pFYzR5clk2Y2hpbWx3M3gyQWYweUVVX0xJRko0Rk1YaTBicUlMTF9JaTlZ?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-10-30T11:19:00+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "\"한수원, '체코원전' 일방적 협상 종료\"...대우건설 주주 불똥",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLUy1yQWdta2E5ZVN5Vk05Und4VGlwam1QMm92SmdrYnNOaTBFeHMzRHhBSkJiM0R1VngwWkN2eUJEb1RkNmc?oc=5",
+      "source": "Daum",
+      "published": "2026-10-30T11:12:18+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "체코 원전서 드러난 ‘선(先) 선정·후(後) 단가 협상’의 촌극… 한수원 원전 수주 관행 도마 위",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHY3LXhyRjBQTmwwdGswVjR2dDZramFBZ1BIZ01ua2ZneXNfQWRnUFNpeUZCek41M1JWUGxGdTh4MFdfUUg2NlgxMXFRNU9uck53ekJCSUc0bTBaQV9mU3lOaFRlLVZ2M0l3WXVqZlE5SmVTWkdtWTQtRHlkdi1BNFI1LTTSAZgBQVVfeXFMUE0yazF2S0RNVk1aRXVaSnpWWlhaQVZDdjU1QktULWJqcmFWNU96d2pfREZVVlFuTEc0TTJRRFpDbGtRV0JrdUJmY2wxN1pWNjhWMDNjREZQZkJsMGt4VzFobmt3X2pEMDNxSzRiWjNCSG1jam8tQW9xSWV3Z0sydFJLV2U3YUQ2OWV5czlucGJURkxfYTA0V1E?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-30T10:57:00+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "세계 62개국, 원전 확대 '실행전략' 제시…한국 역할 주목",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQmVkT0N2WU1DaW5aYmFILUwyWkU4TEYweHgxZWUxeU14XzA3Y2RKLXpaYjlVQmY3aG9xQmlFVVh0aEhEYWZaQ00zbkZMcTVmWlE0eXRzQ3EtTzk0LVdBa1dBaFlGYmxFVFNaQ2pR0gFuQVVfeXFMTXNCZWRPQ3ZZTUNpblpiYUgtTDJaRThMRjB4eDFlZTF5TXhfMDdjZEotelpiOVVCZjdob3FCaUVVWHRoSERhZlpDTTNuRkxxNWZaUTR5dHNDcS1POTQtV0FrV0FoWUZibEVUU1pDalE?oc=5",
+      "source": "넷제로뉴스",
+      "published": "2026-10-30T10:37:11+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "현대건설, 3분기 영업익 2217억… 전년比 114.2% 증가",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBSlBPanF5M3g1bGMyak8xVHQ5blZvenJmdE01NFdlWm9BcEhjTnJjbkZaaVl6UEtyRzRselBaTzBNUDQ3YTROMFNPbGp0eDR0alJKbzQyTFJKc1dYOE9DeVI2Nmp6LWNBNzk3LWNxeUTSAXRBVV95cUxPQTZ4R0lzVl9QeEM3NDhtSzZjWEVFek05S2s5dEg4OHJuZ1BRVWNUNkZGNG5tVEtBaWJBeDREMVFBSHYtZnB3SFozSUQtcFI1c1p3MkpWeWNwR0w2YkxHVnlPOWc0VkoxdkoyVExISEtFVUJCVQ?oc=5",
+      "source": "IT조선",
+      "published": "2026-10-30T10:24:59+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "대우건설, 체코 원전·가덕도 변수에도 수주 기반 '견조'...실적 개선세 지속",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlNnBGVWZzTC1mdklXSTl2R3pIYUdHekl4dTV1R0RSRVdLbWY0SDhQTUVIUlBsUjgyRUpMb0xtMUpCQlJRWVB4VmFtd2twcnN6aVdVWENRQjhDQTBCYlc4a3NVTW04blFTd01LQWhrUdIBckFVX3lxTFB4WVZrS3BKSFhzbjVHYnZCX0VNR1U1R3pQTVJsbVJUd0VMbWNyOUptb21laFlxSldBY19ZOXQtSmYxMy1IQWxONFF1U2F6VU50Qjh5dmFIai1wOEtsM1MyTXNTckRiNUJnT3A0aENhdUcwdw?oc=5",
+      "source": "팝콘뉴스",
+      "published": "2026-10-30T09:41:32+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "체코 원전 시공협상 결렬에 대우건설 노동자 반발",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NVE5RQ0hITXRGaWlsVUcxVm5IWGJZa3YxNXpEVVpLNDA4SDRMZXpWTWxCTDFyZFEzdkp2NnpUOUVaQnNHNE9MZ0xLcExlRUJLNmpqQUR1TmpBa3dOUFA1Ukk1dVJwMDFkOVZqM0NmVFc?oc=5",
+      "source": "매일노동뉴스",
+      "published": "2026-10-30T09:24:30+00:00",
+      "category": "원전·특수건축"
+    },
+    {
+      "title": "현대건설, 3분기 영업이익 전년동기 보다 24.4% 증가...연간 수주 목표 86.5% 달성",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QeDVqa0U0a3EyNnFzM1Zpa0xFNWpVT25OTzRqY085SThxVUNob2RsSnlFNVNsVjRGUjZCRlFDalhMV3hyd2VKMW5pbFEyRWM4SWtxdDlmMElaN1VwdmtwY2lwa0dMazNl?oc=5",
       "source": "데일리팝",
-      "published": "2026-10-30T00:37:00+00:00",
-      "category": "원전·특수건축"
+      "published": "2026-10-30T09:12:00+00:00",
+      "category": "수주"
     },
     {
-      "title": "스튜디오이제 유은정·조성태, 부산 '2026 올해의 건축가 100인 국제전' 참여",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSUpmSGo5SXhWcXMyVzFhY1dmZVRHSUc2ZlVYMVJHdFV0a0hheHg3VXFpYTdsWDFHZ3ZnRDVIdW9XejhrcUhnRV9hc0dvbmdtUS01TE9NWExneEFfOHluU09tVjlvVDBw?oc=5",
-      "source": "공감신문",
-      "published": "2026-10-30T00:30:00+00:00",
+      "title": "청주시, 주요 시공사·공공기관과 지역건설산업 활성화 업무협약 체결",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ua3JyWi1GN3JtMm84LU1vRjNLT3BVLUNieS1LOVE0bDlfQzFYdXBJcHY3X1M3a3FFMV9VWDk4WlU1anRHTE82ZkpWMk9QNzNpQjdYMThaZlk4VlRSem1Id1ZrUkVGZHA3R2RTTEVobFDSAXRBVV95cUxQLUtiSHFRUlNQTE9GbXhuZlNPVnFEQzNYLVE0UFh4cndiQVlCLUtNa1ZEMmxuVEp1M2tjOUJUS3pwOEVoZkFYRXM2X1BZM3BlWWhtMVhlamRMbzhmS2p0QWdmaWk5NVh4elRrSk51dHYzbmhGUA?oc=5",
+      "source": "이뉴스투데이",
+      "published": "2026-10-30T09:00:00+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "대형 건설사 6곳 중 삼성물산만 3분기 누적 매출 늘어...GS건설 홀로 영업익↓",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QZF9HSGlWWVFPdVJ4LUdKdWRKdVF2aEc5dDk1RDVuczZLRWFPWmZmNkc2T3hvSVQ2aWxPeWZlRWZIVWpDWjBreVlwWUxJQmxnanAxLXZJOXl0VlpFejVPejBTcVNyQ0hTaTJZZ2d5QktyU3c?oc=5",
+      "source": "소비자가 만드는 신문",
+      "published": "2026-10-30T08:51:48+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "청주시, 지역건설산업 활성화 위해 민·관 업무협약",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EdE50Y0JYQ2liRFN3bFNFTlRLZG5tdFRFdlNGdFhCaXZPZTY5TS1TTy1qb2hGN05uR2RrUEdCR2hvRnlnbzRfMkFZV3FTTWc1cmdYYzBlQ3gyMF9VWlJZUnU4c1BGRU5qcXVqUi04WkdpUdIBckFVX3lxTE9EdE50Y0JYQ2liRFN3bFNFTlRLZG5tdFRFdlNGdFhCaXZPZTY5TS1TTy1qb2hGN05uR2RrUEdCR2hvRnlnbzRfMkFZV3FTTWc1cmdYYzBlQ3gyMF9VWlJZUnU4c1BGRU5qcXVqUi04WkdpUQ?oc=5",
+      "source": "충청리뷰",
+      "published": "2026-10-30T08:49:29+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "DL이앤씨, 3분기 영업이익 1천73억원…누적 수주 31% 증가",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lck92MHpaODJvUDZmNWxLOEtobU14a3lES2dWdUluNWFWaWVBdzlXc1FGc3B0ckpkc1pMLWtMY3VFQ2RDZnZJbHR1b0VfMW1neEZHQU1yX1_SAVhBVV95cUxNZXJPdjB6Wjgyb1A2ZjVsSzhLaG1NeGt5REtnVnVJbjVhVmllQXc5V3NRRnNwdHJKZHNaTC1rTGN1RUNkQ2Z2SWx0dW9FXzFtZ3hGR0FNcl9f?oc=5",
+      "source": "SBS Biz",
+      "published": "2026-10-30T08:47:00+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "3분기 실적, 현대건설·DL이앤씨 매출 줄고 누적 이익 증가…GS건설은 동반 감소",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WdGI4WmRQLW85U3dYdFRqam9rRDdoSUw0UFhKb3dkUVYzS1RSeXhGaGJHUzdmb1EyRDFvVDhaQWVzaVQyRm9HYUlfRWFzdzB4bVgtMnduLXQ2c2V3akxFa1dILVFUSTFm?oc=5",
+      "source": "녹색경제신문",
+      "published": "2026-10-30T08:37:58+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "현대건설, 선별 수주·원가 관리 효과로 3분기 영업익 24%↑",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEMEkxaGFSbEVRcTZ3UEpRdFFyM3VlSWxuT3JpOHBMY1hEeFNmM1lSVUZibU5TZ2FQdmI3VVNlVXlJLVU0ckZMZ196ZU84WmE5cm1oaEphazgwTUhmNHJFUFl2Wmd2aENG?oc=5",
+      "source": "FETV",
+      "published": "2026-10-30T08:35:35+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "현대건설, 3분기 영업익 2천217억원…전년比 114.2% 증가",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PMnphcjlNVkFOYXczRW9QNjl4S1NXeVpaNERtMkE4ZGJaTWI3bE41MUhSazgxSkRBNy13ZFRxYmk3LWlpRWpZeXJkalBpVWpwVTYxUm14aEhZU0FpUlZBaDNXaEYwd0E?oc=5",
+      "source": "청년일보",
+      "published": "2026-10-30T08:34:43+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "[현장] 목동11단지 ‘올인’ IPARK현산···수주전략 담긴 ‘목동 아이파크 라운지’ 가보니",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YY0tWUlBkQmtzUXJEMWRCLWNhOUdHQ0lDVEwyUGROS0J5V2lxSGFpUE1YUi00R3dLVEg5X1pFTHFBZjRBc2w2czdRczBGYWwwSnhaMm04MDctTWJpWk4tTmNIdDNuUlRPLWVZXzM1R1pid9IBdkFVX3lxTE9XN212Q2ttelFFSXh1ZXVCYVg0V0o4dnJGbmx5SzVUVEZvcGlma3cwcjhndGZTWFdybjZ4MUZ6cWtTS3BUdkdEcUFzb3MzQXFvNjF1eEs3RG40Wk9fYXliZG1BenE3UE5SbHpzcVR0R0dFTGc4LUE?oc=5",
+      "source": "시사저널e",
+      "published": "2026-10-30T08:30:22+00:00",
+      "category": "수주"
+    },
+    {
+      "title": "시아플랜건축, ‘유한양행 윌로우하우스’로 건축 분야 2관왕 달성",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RblZ2ZzdXN2VJOUMxM0hYMkNRbHQtX1draldWUTR6MThlUm1oOU9oZ2NmTUpNeEpDUHotOHNfcmlMWHl3OHJySUtGV1hZUFk5ZzFnWm1HU09zT0E?oc=5",
+      "source": "세계비즈",
+      "published": "2026-10-30T08:27:46+00:00",
       "category": "건축·설계"
     },
     {
-      "title": "‘추모공간에서 문화공간으로’···광릉 더 크레스트, 경기도건축문화상 수상",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtYkhhWUF4S0xtdWFaVHVpUnpMSlNXeDRFMndFWjdhdktBTDNDcDZvcUE5TE9MQVNrSWlWb2ZmWFBLTW40cS1nVzdnS19uSnZxRkdUWFByWW5EYzkyem00dUZzQWw2OTFIYmRwWVlibTDSAXBBVV95cUxQLWJIYVlBeEtMbXVhWlR1aVJ6TEpTV3g0RTJ3RVo3YXZLQUwzQ3A2b3FBOUxPTEFTa0lpVm9mZlhQS01uNHEtZ1c3Z0tfbkp2cUZHVFhQclluRGM5MnptNHVGc0FsNjkxSGJkcFlZYm0w?oc=5",
-      "source": "이넷뉴스",
-      "published": "2026-10-30T00:28:53+00:00",
-      "category": "건축·설계"
+      "title": "대우건설, 체코 원전 쇼크 속 창원 대형 수주",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1odlFnaHFLWnZ3VjNtSTB5V29Oam1FVDhBMGpHZkFqTENtbkVMQjZ1VUhkSFkxZ21WNGxOMVNJY1lOMHhRLU1YRl9naW5xM05QMkZlOVZNMTNPS1NTN2EyWUdDOXdMRVBkS25Z0gFvQVVfeXFMT3l3WkJrQTduWlVhcXFsZzZHc2lrQWMtNkVxcUtuWGNEOUxZd0xWRmZod3QwaHNQVnk4QkhOQWJVYTNqb1NhTjRhaGFnYlUtN1ZCRERmTS1XdDRsQ1B1aFVna2txc2xLOE9UcVd2Mm5N?oc=5",
+      "source": "한스경제",
+      "published": "2026-10-30T08:14:28+00:00",
+      "category": "수주"
     },
     {
-      "title": "대우건설, 호실적 속 마주한 '원전 변수'",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tc1VpbWM3WUgyNmd4Ql96M2tMeVdyS2dHOWlpVmVvaGRYR2pNcEJDMmtUUDAzVzg1VHJfeWNJdy1VN2Z2V2NsQmhYeDMwY1BJYldvY1pWV3JuQWhGY0sxSU9Dd25udGM4WnNaUGJ1SVk?oc=5",
-      "source": "신아일보",
-      "published": "2026-10-30T00:21:23+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "대구경북신공항 민항 사업에 한국공항공사 참여…1조4762억 분담",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EOVcxMHNJOXpaR3JTblFSNWozZ1JDUFZpSDdDZEZ4WF9JVEpFeHMyWVRleFpMOFBqcjVmYTM3NU03YXIxOWJ4SGR5WTV4UERuMWdpUQ?oc=5",
-      "source": "데일리안",
-      "published": "2026-10-30T00:15:00+00:00",
+      "title": "현대건설, 3분기 누적 영업익 6645억…전년比 24.4% 증가",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xazU3UV9saXhQTXNqSmhlV0FpZkZ5RW92OEliWjZtMDFtUUNGRVNnMjREZVZ3UkNoSS1LSTZPRmVEVzYyMGRzVmxfZG9XVTBrVUh1QVVPVW54MWhiQjUybnZBTjk?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-10-30T07:14:10+00:00",
       "category": "금리·PF·정책"
     },
     {
-      "title": "키움증권, 체코 원전 시공계약 결렬에 \"건설주 급락 과도\"",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXS1VRVXRGNVBGV29NaHlHRGRNaWV1Z1c3ZV9kN2Z4VGdJUW84eE1LMG5xWEliSkFSQjFYbXdqSWhkTWFwWFY3eFZzUTc1NXhDcFE?oc=5",
-      "source": "매일경제 마켓",
-      "published": "2026-10-30T00:09:31+00:00",
-      "category": "원전·특수건축"
+      "title": "부산 건설업체, 공사비·금리 폭등에 고사 위기",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzS1lubU5WTW9pQ0VCZ3ZBQnpiZ0RHaDVENmNrZ1B1b0RJTnc3WEZ5TlRONTBRckNTQlpyQjctcE5lWTBoaVVRbXR3UlhfS3BCUjdMajZid2RYZHVpRVpnNjNIemE5aldmMW5Z0gFvQVVfeXFMT2NfQkxjWVpJN2VZc3NZdWVvWEtXOHl4OTlSNEdSR2FwRmNoMmpvd0MwUENTelIybnlaSXhTWlZmNFg0YWtCUFAwSnc1c2RfU0d0cVJjQ3ZULUVGTjJVSWJzSjBGUllVRTQ0aHhPZUhn?oc=5",
+      "source": "핫콘뉴스",
+      "published": "2026-10-30T07:06:01+00:00",
+      "category": "금리·PF·정책"
     },
     {
-      "title": "체코 원전 시공 협상 결렬에도···두산에너빌리티 \"주기기 공급 정상 추진\"",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kR3d5cDVvVjFhWkVwdHV3dS1mQlhqZ0t0T0hxbTZya2RnbWhvRHNZRFZmaUNwVlVwaXBkamFGNVY2TDV2azJfQVZ6SlhTQk5zaEFFaWZ5LTJEVWpNSnhHR2ROaVZPRWpqVWc?oc=5",
-      "source": "서울파이낸스",
-      "published": "2026-10-30T00:09:19+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "롯데건설, '경기광주역 롯데캐슬 시그니처' 2단지 10월 분양…셔틀버스·인도어 골프장 등 5대 특화 서비스",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VMF94MEdTMDhGdVpMYTJnaG14MzRld01WZ3hjdDAxTjNGOFl5dnMtV1B0MFhWVlhBOXo5cTFmOG5UdFAtNWFFanlR?oc=5",
-      "source": "얼리어답터뉴스",
-      "published": "2026-10-30T00:08:14+00:00",
+      "title": "청주시, 지역건설산업 활성화 민·관 업무협약",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TNjBLNnFPb2lCc3l3M01JTVhmVUpfdUcyNEZtRWlFOXlvdkw1ZWU1N0RRWlVQQU1DSmdMSFBCM1MxcnhXbnlXTUlVMXV2eVZ4LUZfUGR2ZlJzRERJREJZQk9HVzhYSi0tUXZN0gFvQVVfeXFMTmNnaDQtWDhOUXVPX0pGRG5vVkczNlVHWFZfYVBNTm5SSVN0N1NPN0JCZ1I0d2toVXFFU0xLVE8wQ3VNTUhwdndVTXRrWmZMSmUxNDV2WjlqTGhXeHZIcTNsdHhwdXZLQmZGQVoxUmZj?oc=5",
+      "source": "충북메이커스",
+      "published": "2026-10-30T06:54:10+00:00",
       "category": "건설경기"
     },
     {
-      "title": "대우건설 컨소 빠진 체코 원전…현대건설·삼성물산 재등판하나",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96Ymg2c1ZqRXVDX2tJQVBCZmkwZVhMbWRqMzZ0X09RYzdZYmlJaGlxTjYtZVVpRE4wclhtbktrWDNRWkozRGtPX3FaSjJEcUVKWC1GUjdWNlFtcDBxcnktYTFoV2J5S2k1T2MyMHBEQnE?oc=5",
-      "source": "연합인포맥스",
-      "published": "2026-10-30T00:02:14+00:00",
-      "category": "원전·특수건축"
+      "title": "[인터뷰] (주)건축사사무소 이래건축 이은미 대표 “매스팀버, 특별한 도전에서 합리적 선택지로”",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3Wlh4ZERmTW44cUNjQndnakZuU0pSY0tIeDBTaEItOUI4blJRQWJhbjdxRW5lcTRnQ2hNeFI2eG10SEl0bEszMklnc3J2X3ZEdWU2UURGZVNwUFJDdTdwRVNrS29IOUEzc253a1VpUHdhUdIBckFVX3lxTFB3Wlh4ZERmTW44cUNjQndnakZuU0pSY0tIeDBTaEItOUI4blJRQWJhbjdxRW5lcTRnQ2hNeFI2eG10SEl0bEszMklnc3J2X3ZEdWU2UURGZVNwUFJDdTdwRVNrS29IOUEzc253a1VpUHdhUQ?oc=5",
+      "source": "한국목재신문",
+      "published": "2026-10-30T06:46:10+00:00",
+      "category": "건축·설계"
     },
     {
-      "title": "[대한민국 건설 리더십 해부] (7) '오일근·김원재' 롯데 계열사 출신들이 이끄는 롯데건설 체질 개선",
+      "title": "청주시, 대우·두산 등 시공사와 업무협약 \"지역 건설업체 일감 늘린다\"",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wbDM2akVHS1JidlFIQkFKRDBCY2daSVNLQ0VBSXN6RWE2X050NUhldkNWTkQzZmNvT1I4Yk9na2d4VjFSOFNUekFwZ2g0MW9mNWJNaHB4UVAwY1JnNE11NUp3S2sxNzg?oc=5",
+      "source": "충북뉴스",
+      "published": "2026-10-30T06:43:03+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "서산시, 인지초 복합시설 건립 가시화…건축허가 완료",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ndmozcGFSTEpSQllNdjFuM0F3REgtUS1uUmdxdlY5QXFQRFozT295UDRMTkZ1VTB4eVQySUp6MEx2dldfTTQxV0RrNEtydHdILXlnQ05COEw2TW84LTA3LU1GcEM?oc=5",
+      "source": "매일일보",
+      "published": "2026-10-30T06:24:36+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "외형 줄인 현대건설, 이익은 키웠다···100조 수주잔고로 반등 채비",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JdjBWQWR4eng2TUpHLVJlMGE2V1NkWU9GWXhwa2x2MGUtcUUwU3diQ3NTVFRjeUh6NkxEQVh0bkpDaWdQaVgxTjc2MmdtVVBwZ0pQSXNHNWpoT1E5ekNhdGdXTk1mUTFzWnVsZA?oc=5",
+      "source": "스마트비즈",
+      "published": "2026-10-30T06:14:40+00:00",
+      "category": "금리·PF·정책"
+    },
+    {
+      "title": "순천향대 건축학과, 경기도건축문화상 대상 등 6개 상 수상",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1ScHVHdlNxZkdaVm9NamRubHB0VzBBOFJBbkprQWVQcU1ldnl3ZS1ZMEZWLUtsUkdGTkxEWm15MkRRSnl6?oc=5",
+      "source": "뉴스파고",
+      "published": "2026-10-30T05:43:00+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "체코 원전 계약 무산…대우건설엔 악재, 건설업종엔 기회?",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NbTB1ZGcxMWJ3X1Y2OThTNExnb1JUR1UxaVNtM01fWmJEY2FaSzZObEFzR0xOaWZvdkJTX3JTSHNyRFg1dmIzSDJPb1JaaVBKYzNFa3FnM0REN01XZ0NzOC1FZ3F2U0gxWU5xZA?oc=5",
+      "source": "ESG경제",
+      "published": "2026-10-30T05:35:06+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "순천향대 건축학과, 경기도건축문화상 ‘본상 3점 석권’…2년 연속 대상",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05Z0xMZlZ6TmRuekpvZjY2aHBBZWQzSXB3dnhYZWxoQWw1OHRMaGhLcFExdXROR096RllQMUg4X0VtUWtzSHQ4?oc=5",
+      "source": "아산뉴스",
+      "published": "2026-10-30T05:30:00+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "청주시 \"지역건설업체 공사 참여 확대\"…민관 협약",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52TkxHME1tam5YTXRfZjd3alpGWlp0TFlBZHJGMUFYMmNGNXlYa05KNGpxX1MtNW9pZTNUUUQyYl9COGNnODNhdHRWQndyUkxuM192MGdQLWRRUE91RHV1NtIBeEFVX3lxTFBCNzJHcEpNREc2Rk84TW1vbWlZbElxMUtEUjBlT2NlVXNhOUtsbDZ2eXZWSHBuRTR0S1oxbTlaclRfanJ4V05KUmltTmt6cXdnTzNNR3JkSnFOR2Q3dFZoelhlWmVQOUI4TDdSdG1IcGhuU2R6WFZkZg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-30T05:29:39+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "김천지역건축사회, 2026 김천건축문화제 개최",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PZ25QRzRuaUZpX1VITkxBaGJpZ3NPMUdkdnA3NFRUOTlsME9kbHdnTDFBTVBjZ2pZdHl1OTUxZFhla0ZpM1JMQ28tNndWODFRd051ZlA4M01CNGxnTmNTbFQ1X2hFR2M?oc=5",
+      "source": "대한건축사협회 건축사신문",
+      "published": "2026-10-30T05:11:58+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "경상남도건축사회, 중·고교 건축동아리 공모전 수상작 발표",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQUFNTDRpLUJUZVl2ejI0SEV3TXhzRVR5d3dFeXVOaF9rcnY0UDI5a0ozaW5WZjlhOURSS2s2cWhWNEd4RXJ5S2RNMHlvUEpWR2g3c1hZZGIxTFBfOHRsU2FVQW13S3c?oc=5",
+      "source": "대한건축사협회 건축사신문",
+      "published": "2026-10-30T05:10:27+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "한국 경제 깜짝 성장에도 건설업만 못 웃었다",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xUGhsclJ0b3EwTi1PMVMtYUN0N3Y2RC1WRVFmRWQyd1VOZ01NOUg3Mkh4bTdmN1ZEazVCTmhBNHlzVGJxaElOVUlUU09hWmZSbWxkUFJ3?oc=5",
+      "source": "비즈한국",
+      "published": "2026-10-30T05:09:07+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "‘왕숙 특수학교’ 11월 중 공사 입찰",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE15YlNVVGIzdkRMU3NneWR3ZjBSX0xQeGpCeVgwb2ZUT1NiUDBPYkpWRWE0S0JoUjlnNUtBWQ?oc=5",
+      "source": "남양주뉴스",
+      "published": "2026-10-30T04:51:00+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "【인터뷰】 진태유 건축사 “사무소 규모·경력 관계없이 역량 발휘할 수 있어야”",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QaHZQY2xwY1FtcVpjVVV2ZkxmVDB6SkF2ZWpCTlJFVldRVDJoMWF1bkNEM2lLME1FdER2dmpuNEYwRlVOMEcxRngxRWJiWmlSV01ILUdfaS0yWV9nRjBhelZNVnEwVjQ?oc=5",
+      "source": "대한건축사협회 건축사신문",
+      "published": "2026-10-30T04:34:18+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "국토부, 대구경북통합신공항 민간공항 기본계획 변경 고시",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBybU55bE5xdXY2eERDc2FSN19pMVQ4bjdESUpFZy1oRVlDeUpDTDNTdngzQnNvR2lsMXBlaE9BaFdyZTNWcHE0?oc=5",
+      "source": "정필",
+      "published": "2026-10-30T03:39:00+00:00",
+      "category": "금리·PF·정책"
+    },
+    {
+      "title": "순천향대 건축학과, 경기도건축문화상 대상 등 본상 3점 석권",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EM1ZKRi1sSkZRSlR4UVJuT1hFZ3lYeE1Ob0t6UXpIbDlUYU9WLVI3eXJTOWZwZnZnNm1LdXlIckg5WkcyYWlNMVFjR2l0Y2dVaHNTXzBYQko?oc=5",
+      "source": "경충일보",
+      "published": "2026-10-30T03:13:50+00:00",
+      "category": "건축·설계"
+    },
+    {
+      "title": "GS건설, 3분기 영업익 35.7% 감소…인프라 매출총손실",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3Si1kS1BaNFU4eHRTUFUxQktKQzFBWk9LWE51SzhCWmpsaEZiRk1saFVyRjR3cldwYVp3MjdsX0dXRzFHN0VfSEJaV1c3elZobVVJdjZMZzdpSms1TzZydUE1WHZXNHR3N285dFhlNE8?oc=5",
+      "source": "코리아리포트",
+      "published": "2026-10-30T03:03:08+00:00",
+      "category": "금리·PF·정책"
+    },
+    {
+      "title": "GS건설, 3분기 영업이익 955억원⋯전년比 35.7%↓·부채비율 218% 개선",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xVnlDVHhxUHo0aEVCQlhaQzU4Skx1dU5FQThoQm8zdUR2TVhSRDNxeUpVY2xYWlREZFRER0xUNUdFR2J5bHVFVGM4VE5oWk54c3VNY0d3R3FZaFJpV1ktbWdPMA?oc=5",
+      "source": "더구루",
+      "published": "2026-10-30T02:44:14+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "제주 건축물 일조권 규제 완화…인허가 지연 줄여 건설경기 회복 지원",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuV2YyX3FWNEZfSmtublV4LU1KcVp2U3FRRXhGSExUUWs3SUdJUzVQdGZ1QU5VLVU2cDRhNEp6cjFqcE1fbHlOa2Z4VU00MXZZZDF0UVZPM2lNT2ZXOFRyNzFsUkpLVmx6YjE0bjZ30gFuQVVfeXFMUG5XZjJfcVY0Rl9Ka25uVXgtTUpxWnZTcVFFeEZITFRRazdJR0lTNVB0ZnVBTlUtVTZwNGE0SnpyMWpwTV9seU5rZnhVTTQxdllkMXRRVk8zaU1PZlc4VHI3MWxSSktWbHpiMTRuNnc?oc=5",
+      "source": "제주뉴스",
+      "published": "2026-10-30T02:16:00+00:00",
+      "category": "건설경기"
+    },
+    {
+      "title": "자금난에 폐업 느는 중소건설사",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4NDQtdEFVS2RRMldua3lMSi02MlJTZzh5T1NDMTlfZXlQN1pORVM0bTMtb2ZvV0FRZTlXeXg3RFlYZm13STJnbERpc0owbmZJUFI4eUFtbjlrelQxeWw1cUlIbjFGTm84b1J2MtIBbEFVX3lxTFA4NDQtdEFVS2RRMldua3lMSi02MlJTZzh5T1NDMTlfZXlQN1pORVM0bTMtb2ZvV0FRZTlXeXg3RFlYZm13STJnbERpc0owbmZJUFI4eUFtbjlrelQxeWw1cUlIbjFGTm84b1J2Mg?oc=5",
+      "source": "대한전문건설신문",
+      "published": "2026-10-30T00:23:13+00:00",
+      "category": "금리·PF·정책"
+    },
+    {
+      "title": "[대한민국 건설 리더십 해부] (7) '오일근·김원재' 이끄는 롯데건설 체질 개선",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlYUNWMWc1MEtVX3BEQjdRemFabFkyalljalJtQTFVVV9OcWNXRzduUUNOTmFnbVppMHE4U25ZeXVyRlNTaDNGaUFyVmltajRZRzRQLW4zdFJ5b0hJVUVhdDU2UQ?oc=5",
       "source": "더구루",
       "published": "2026-10-30T00:00:57+00:00",
       "category": "금리·PF·정책"
     },
     {
-      "title": "\"대우건설, 목표가↓…체코원전 협상결렬에 동력 약화\"-LS - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdWgwR2JHbTlSeWVSRHlYNGw3MTBPVXBIbmwzYVFNVmhXMEN4Q1RmNUktcU9QUU5ZdlIyYlp5YmFRblhZZFVnQ2prc3R0dFdGQm9LWVY3ejgyX0ZXa2FMdDZzR3duTkc0SkVIMTln0gFuQVVfeXFMTVB1aDBHYkdtOVJ5ZVJEeVg0bDcxME9VcEhubDNhUU1WaFcwQ3hDVGY1SS1xT1BRTll2UjJiWnliYVFuWFlkVWdDamtzdHR0V0ZCb0tZVjd6ODJfRldrYUx0NnNHd25ORzRKRUgxOWc?oc=5",
-      "source": "머니투데이",
-      "published": "2026-10-29T23:47:11+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "\"체코 원전 신규 시공사 선정 불가피\"…산업부 장관도 한수원 '존중'",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0VvaS1UZnZkdFZ4YXhpOHNqbTRPenRXZGNVSF9xWXZnMno1cXpweUk1SjJmb2RNWk5pc1JOR0NHTG5VMDBzWk1Ndk9MLU5nODVuX1ZhX2dXUXNjZEJHM3o1MWdiV2JfaGdKWWZaMHJfeEpPMFJSUjVQMHJ0cG1lbGZZckJCamxlV2c?oc=5",
-      "source": "글로벌이코노믹",
-      "published": "2026-10-29T23:38:57+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "삼성증권 \"두산에너빌리티, 원전·가스터빈 수주 확대…실적 개선 지속\"",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ITTVOZ1FUNHY0QWdzU25LU0p3ZVpPNWtwR1NVWF9Ja2JRdkRMM0pNVHl6QVJ2RWNIcTBPNHd6MWhJR2c5Q0VOREQ5bUNjblhiUTFCMA?oc=5",
-      "source": "이투데이",
-      "published": "2026-10-29T23:32:00+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "대우건설, 체코 원전 \"받아들일 수 없다\"…두산에너빌은 \"당사 공식 입장과 무관\"",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjWWFKNlVOQ0lqcW4xNEZTLW5JdTEzcTJwRGxUUHdBTlZ6blU2R0xJMXdkMjlnSG43Y0VibFlCYV95c2NSVEprNlk5Wmw5bDdJaXhIdDlVQ292VWZYdG5MZGlGY2ZRUUQxR2ZfQ2pn?oc=5",
-      "source": "알파경제",
-      "published": "2026-10-29T23:15:55+00:00",
-      "category": "원전·특수건축"
-    },
-    {
-      "title": "의정부시, 주택건설 통합심의로 인허가 속도 높인다.",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jZFlMMGlETVpDMy1SU041dEJpZ3I0TjM3bzZJWGxDTG1LX3hXeHhFN2hxdFBjX0QwSDZ4VkgzUFUyVGFzYnc?oc=5",
-      "source": "경기북부이슈",
-      "published": "2026-10-29T23:06:00+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "9월 부산 건설수주 352% 급증…광공업 생산 4.5% 증가",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlZnJNeGdNVXFveU4zNUM1Mk5XZmdtaDFXQ1UzMVF5bVN5UVZJd20weXN1R0ZmSlZrdTU1ZENzcEJkVWNoS3RfaXhLNmNwX0c4dDlUUHRmb0d5TEHSAWBBVV95cUxPVUppUHhNRFhTdGxKckUxZ0tvSC00eUF0NjBOOWdFdnk3Y3RkQ1hTaTFiVjd1Q216NGdqaTBxZk5ET1hfTkp5aWpNa3l4alJvUkxtcmM1aDRIX182bkxjNUs?oc=5",
-      "source": "연합뉴스",
-      "published": "2026-10-29T23:04:39+00:00",
-      "category": "수주"
+      "title": "[대한민국 건설 리더십 해부] (7) '오일근·김원재' 롯데 계열사 출신들이 이끄는 롯데건설 체질 개선",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lcS0xRGllUk80ajEtSF9FelFNM0R1RXhubGllUzJsUmhucENFRDZOMjNKclpsVjY2VVV1a1dCS1NBVk54RjNzOXFXd3hnVVZ1TFN4dXAtbGJkRFRpX0lMTGRR?oc=5",
+      "source": "더구루",
+      "published": "2026-10-30T00:00:57+00:00",
+      "category": "금리·PF·정책"
     },
     {
       "title": "대구경북통합신공항 민항 2.7조 사업비 분담 확정…공항공사 1.5조 부담",
@@ -212,22 +408,8 @@
       "category": "금리·PF·정책"
     },
     {
-      "title": "청주시, 지역건설산업 활성화를 위해 민·관 업무협약 체결",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12NmZhOVhpSDNlaGV2QXFBcXFBQmpwcG9sTjF0aktDWkM5cnVHUmpiWlI1TTBsdE1TUjBSNGZfSVNLazZ0SzJnZjFPMlVET05Mc0hFTE91MGNWamlTNjVrNURpR2RJZEYy?oc=5",
-      "source": "IPC종합뉴스",
-      "published": "2026-10-29T22:36:25+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "서산시 인지초 옆 수영장·돌봄시설 건축허가…12월 공사 발주",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lRTBNYmRlc1RXbEh4M2lzTDd0YWhOUXpDdWsyeEZEZmM2ZEZ4dHBORGxYQjdkaUpQamZYUGR4QllUWGd5dlJGNUNBWTJ2blBQYnlGd0lfZmg3RTlITzl2QmQ5MVpCRFk3SEtoSlppVEvSAXRBVV95cUxObG9MRjlSYmJZTU9CdDIxUFRDU1hsN2ZGN1RIS1ppaXdXZEdjX1NKeE9qQm53QnpvYzh6bEZfOER2STFMcUNQOUNKbl9iaE14OWNoRks4NVhRYkFHM1NsejJkT0dwbGxNTldLaHpkTnBYWXBnUQ?oc=5",
-      "source": "더페어",
-      "published": "2026-10-29T22:14:52+00:00",
-      "category": "건축·설계"
-    },
-    {
       "title": "현대건설, 계약금 부담 낮춘 '힐스테이트 송파더그리드' 공급",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54Z3dxMW94NXloWjRYc2doeEZYVkZFUmg0TXQ1SS1wZGVmUTdjMDJwRndsZ3ZDUUR4TVBpUjhUcnZtZ19wYUozTGx1VDdBVUZXaE1zVmt2Mnltd0NLdXBERGJJZHBUcXRN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aMXVSWF9GeFFkUTVqdzFXZ3ZQUGo3V2lyNFBXN2MzRjhteW9CT3dyS1hDNERrdERjblFCRTJJMnNhRnczRXdDRGpUbGNYN180S1Q0WEFnd3laMjk1UWhvTUtJZzRrbEh0Qnc?oc=5",
       "source": "뉴스웨이",
       "published": "2026-10-29T22:00:50+00:00",
       "category": "금리·PF·정책"
@@ -235,198 +417,16 @@
     {
       "title": "대구경북신공항 민간공항 건설 보상·설계 절차 마무리",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTRWMEJ2dms0UGd1Mm4tai1La3UyeWlGeEp3eUNvWGNuazZ5VUFiQVRld0MxdzhJZ04wbFRjbklpSm9CTmlyZGpvb3lIN1hkaXp3OEpobGNMUHB2ckFaVXlrX1ZIaVR3anNkaHZteGpGdVpmZE8zaVM1SVlhelZ6SQ?oc=5",
-      "source": "m.edaily.co.kr",
+      "source": "이데일리",
       "published": "2026-10-29T21:00:05+00:00",
       "category": "금리·PF·정책"
     },
     {
-      "title": "한국공항공사, TK신공항 건설 참여…1조4762억 분담",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKc0hyM04ybnNpWV8xVGd1MlRoNHk4MTNuc21TS2Y3a29jMTdKU1Z5cHo1clRmMEdBYXhIVk5JZWx5bjRLSGhTa094ZFdxbnJ0QVhhZUJOYXgwMXpRaWY3bNIBeEFVX3lxTE9GU0NrdVpHbjJtcHZHemVXRkpGMjFOemZxZDZhS1llamNUc3BEZVpVaVI2bU45eFFnNnlXS0lrN3hWbkFfX0o3bXhZUW1IUmNlQnQ3NzJHakdTd1F1dzIwRFJGRDJOOXRpek1ENDZFRlhyTlBnNGhMYw?oc=5",
-      "source": "뉴시스",
-      "published": "2026-10-29T21:00:00+00:00",
-      "category": "금리·PF·정책"
-    },
-    {
-      "title": "대구경북통합신공항 민항 건설 본격화…공항공사 1조4762억원 투입",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FenRRdDgtLUJvRVI4aVFFamlsdjBCR2RhbWZZMHE3WmhBU3V3NG4tNE1JVmNpX05RYVdLZW1CYms2b0h1ZWFDTVFQaFl0OEFKazVhS1JVWi3SAVhBVV95cUxORXp0UXQ4LS1Cb0VSOGlRRWppbHYwQkdkYW1mWTBxN1poQVN1dzRuLTRNSVZjaV9OUWFXS2VtQmJrNm9IdWVhQ01RUGhZdDhBSms1YUtSVVot?oc=5",
-      "source": "아주경제",
-      "published": "2026-10-29T21:00:00+00:00",
-      "category": "금리·PF·정책"
-    },
-    {
-      "title": "TK신공항 민항 건설비 절반 넘게 한국공항공사가 낸다",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96cmlKRVFDc1h5bTJNZWg3WG5hM0FKYzdRWkRzMnp0ajRHZzFvRGUwb05xTWFHa0xoSVEySVhnY3cwbkJOLTRIQXp4cHRoSjJBRlotT0pVSXNLZ2NCcVNydDV3?oc=5",
-      "source": "매일신문",
-      "published": "2026-10-29T21:00:00+00:00",
-      "category": "금리·PF·정책"
-    },
-    {
-      "title": "현대건설(000720)",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa181aFhDd1pocXdXZVhUSWVmcmdIcl8zakx2ekZPRjJHUC1nTTREUlhFVzV4RC1iSjBwSmlUWWV1a19waEVPMk1pMmUtcVVjd2JVdkhJZVE0Tm9FaDVvcWl5QU41S2hteWFKYzlwblJNVzc2c05JQ21pZnFadGpzcFpEck5LX2I5bFlZc0JOWW9iX0dPTlNJ?oc=5",
-      "source": "매일경제 마켓",
-      "published": "2026-10-29T15:32:38+00:00",
-      "category": "금리·PF·정책"
-    },
-    {
-      "title": "선엔지니어링, 200MW ‘베라 루빈’ AI 데이터센터 설계·CM 수주",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyamtrUFFhV2pER01aelBBeFFsaEhENDlFR3FMOHZiZUZNcFllZm9fOHpBQnVjcVFxeG90Z2MwR3VsOUF3SlM2U1J6NTVmaW9GVllKeE1rbEVXS2pXU09FZ2hwemg2cEl1LXdTVEJSaTd1SGRFcVEyWWFoQWswNmPSAX9BVV95cUxQMmpra1BRYVdqREdNWnpQQXhRbGhIRDQ5RUdxTDh2YmVGTXBZZWZvXzh6QUJ1Y3FRcXhvdGdjMEd1bDlBd0pTNlNSejU1ZmlvRlZZSnhNa2xFV0tqV1NPRWdocHpoNnBJdS13U1RCUmk3dUhkRXFRMllhaEFrMDZj?oc=5",
-      "source": "뉴데일리 충청세종",
-      "published": "2026-10-29T13:23:00+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "대구 건설업체 4곳 중 3곳, 수주 감소·수익성 악화 '이중고'",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSZkZFSE1FcWQyU0NBMTdhblI0RDdRdUtMRTJSYTRDcjVZcWtxMEtjU0VFdGpPdW5oQTkzcVZmYVo1bkNIcDJXTExzc1VXeVotVXp2N2l6a00xTi1DSEFDb0F5dmNPbHVySGF6aWpsWGd6ZE5j?oc=5",
-      "source": "아시아뉴스통신",
-      "published": "2026-10-29T10:35:38+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "대구 건설업체 75% “수주 줄고 수익성 악화”",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dmVjZ3B4MXNobElfTGQyZGdtVFdna3QtclR6TFViU3Z6VzFaUkVyN0QxZXlhY21jMXFWb3NoeF94b2ZxLWRiRm90ZnpHQkJBR05jUWdTS1Z2RlBUS2tZbFJYUVg5MFZtVnc?oc=5",
-      "source": "경북도민일보",
-      "published": "2026-10-29T09:58:46+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "'체질 개선' 나선 건설사…데이터센터·에너지 사업 주택 공백 메울까",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52TXpGUGt4NDJLNnYtM19HMGJfdjZtRTkyUi1NdXJEUU9vdE5fVEVCQzl0bElra2ZlWHdzNnpDdVZ1S3BzQnhOSnBaVnVPMUpsdWtfSU1KNGxZNFhVbmVKdi1RUVIwcWpaWFcyQm13?oc=5",
-      "source": "폴리뉴스 Polinews",
-      "published": "2026-10-29T09:38:33+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "“이러다 다 죽는다” 지역 건설업 곳곳에서 단말마 비명 [벼랑 끝 지역 부동산]",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VSlpCSG5PTDRDVEJod25nY21PbGhEeEZBSU5mc0ctM3ZXRmFKeEJYQXlmTUdyR2lQVUxDQjI0ZzNBY1ZQaUtkTGRIQ3VRSkFDb2x4ek9GTUw4anhyb2VtbnQ1UVFobkl6VExRTW41Y2RTZVhN?oc=5",
-      "source": "부산일보",
-      "published": "2026-10-29T09:23:12+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "하도급대금 ‘3중 보호 정책’ 실행력 높인다",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bGtWdXRHd0FWaGh3YmY2MFlkRmhMbzdrVTVZZUJhQ2xfZ0FJVlhZMUhHaDJyc1VNWUd6VjFqNG1HTXZTWmhSVXB0dG5KQzFudmVTTk8zUnlhQU9nMGNJSWhrdUExdzJHTzhKTtIBbEFVX3lxTFA3bGtWdXRHd0FWaGh3YmY2MFlkRmhMbzdrVTVZZUJhQ2xfZ0FJVlhZMUhHaDJyc1VNWUd6VjFqNG1HTXZTWmhSVXB0dG5KQzFudmVTTk8zUnlhQU9nMGNJSWhrdUExdzJHTzhKTg?oc=5",
-      "source": "대한전문건설신문",
-      "published": "2026-10-29T09:07:48+00:00",
-      "category": "금리·PF·정책"
-    },
-    {
-      "title": "대보건설, 대전 가오동1구역 재건축 수주…도시정비사업 확대",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14VmxyUU1RajNIM0kwQlJza2ZQVHlsajRLV2ZkQ0xaV1Q3dXhXaFFyMjl0RmtYSlQ5cDdFVUR3ZzZUVS1saUlaM1BQOGNfZFZyakhsVVMtN1hEYWM4elZDRjY0WUFBdTkw?oc=5",
-      "source": "녹색경제신문",
-      "published": "2026-10-29T09:00:59+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "넷마블 자회사 엔탑자산관리, 과천서 1.3조 PF 계약…시니어 사업 확장",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTmxxdFU3WkU2SDRsU2Zma2doSHNCaU5GN0QxRENlU1RSeXFrbG5wRmNFaDlGb2xNTkJ5YnM4RFNfYk52ZzVQRlZ0eFhBX0Jwcko3Q1JudW1lSGFibXlWVGRlRi16Yy1EQ3RJaHZjVUVGTC14?oc=5",
-      "source": "파이낸셜포스트",
-      "published": "2026-10-29T08:58:14+00:00",
-      "category": "금리·PF·정책"
-    },
-    {
-      "title": "태안군, 건축·농지 인허가 제도 개선 논의…설계사무소 28곳 참여",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iVjJNMnJCSjlnSzM1Q3pJbFloZU5xWVI3V0VMRDZZX0kwVkFzd05EdFZ2NDg4SUs3MWJjelQwM2xuX2FwRngwQkRQSS14WlRNS0Z6aVZabFlkaUZveFJoUWpEX2lhQVVieXc?oc=5",
-      "source": "뉴스티앤티",
-      "published": "2026-10-29T08:54:32+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "육동한 춘천시장, 지역 건설업체와 간담회",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zU2p0a3RDV2d2dDhVRXAzYkpQZEtDZFJyQk1nVFZrMHNDOXlfWmdxMEtQOHRmQWlLeFZWTllJMVVGS1F1M1pVVVI0bU5QYXlFWFpWSnlvSGI5aWNRY2hvcWVLVjB2VW8?oc=5",
-      "source": "강원도민일보",
-      "published": "2026-10-29T08:54:21+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "\"내년 국내 건설수주 241조원···성장 둔화 전망\"",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0MFdhV2c0QndwOVB2T1VjaVVQWG9taW5ueUxZeldXQ3ZNOF82Z3ByMG9HeTZBOW9CcEdabTh2azBDMER0WGx4Uk01eVRzVnY5N0h5REJHdGdhei1yTkVPemtLdjFQT0d1Umo4Rw?oc=5",
-      "source": "기계설비신문",
-      "published": "2026-10-29T08:51:26+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "인허가 불이익 사전 차단 논의…태안군, 설계사무소·유관기관 간담회 개최",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zd1JOZDVOVHVWVmFRRlp1Zkg1YkEtWmJLS0FaRkhtZzJJcUtuZ1VTX2NsbWRaUThrZWhBU2VlOTZNY013WXkweGxsTUtvZHJEMnVWSmZWX0U?oc=5",
-      "source": "타파인",
-      "published": "2026-10-29T08:35:31+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "삼성물산, 3분기 영업익 1조1430억원…수주 목표 30조원으로 상향",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWkNOUGZxNG9mZkNQSzlmVFpiNmNINllNdnNRc21paHROQlI5Q0lPZUU5Sl9KdWRHZ1ZqM1huUWJ2R3preElIWVB2V01DY2lwNDljZ3Q2dno4UzlIcTJtVWoya1pFeFRmaGw3OWppYw?oc=5",
-      "source": "비즈트리뷴",
-      "published": "2026-10-29T08:34:21+00:00",
-      "category": "수주"
-    },
-    {
-      "title": "계속되는 건설 불경기에 9월 건설업 종사자 1만4000명 감소",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MSEpnVXhUSnlvVlI3aDlMbHRNa2hJNGhCM1VqRkJTanpHR015dzdaek5JWHZUOVdsdHdJeWJQWmd2SWxTTFM0QjVKX2hKUDNPb1drazFLYXBVVTljWGstR2pRVlNYazlW0gFsQVVfeXFMUEROZWRZU1RaT29rS0kzWERab1ZwR1NPcDNEdXRyWHlXcDRWbno5QXFkYWRvZTJSRzk4b29ZQ19KQnlGTjhoczY5cU9Tb1pqRFNzNzAtaXJxLTJfSmJLcDhLcTdheERveXdjRDYw?oc=5",
-      "source": "대한전문건설신문",
-      "published": "2026-10-29T08:21:18+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "선엔지니어링, AI 데이터센터 수주",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoUlBpTDdJZ3hBTmhhdExGN1FuYWJIVEJWWGVGSnhGVXI2ZGYwRzk0OC04Vk9CZWFZSXJEdjhSOGM2cVB6aGZqZ3o2a3Zmdnl2eG85cWxCSUpDdmluV3ZHZHhLczJONjdhejhV?oc=5",
-      "source": "한스경제",
-      "published": "2026-10-29T07:50:48+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "숙련공 부족·녹색 전환 동시 압박… 유럽 건설시장이 한국 인력업계에 던지는 과제",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1yYVR4M2pvSjh2andkSlpCR1VuMFNndDFwYTRsMTB3amZmWlZ5d1JFM2xqU3lNeGUtVjgtem5sS0ctdUM0cnAyOEF3?oc=5",
-      "source": "뉴스N연합",
-      "published": "2026-10-29T07:45:14+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "대구지역 건설업체 4곳 중 3곳, 수주 감소·수익성 악화 '이중고'",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MLWpCdkNZcHI2c053Q1RTSkR0MGVwbnhKUmlGZTlDTUlFQ01WNnU3d21rcGM1d2daR3preGVyQS1QQ181M2taTllDRS1FRVpaQjlsdS0xTXpIbXk2bGN3WFlQWlFjbDhCY2Fhal9WRmU5bmNpLWJj0gF3QVVfeXFMTUwtakJ2Q1lwcjZzTndDVFNKRHQwZXBueEpSaUZlOUNNSUVDTVY2dTd3bWtwYzV3Z1pHemt4ZXJBLVBDXzUza1pOWUNFLUVFWlpCOWx1LTFNekhteTZsY3dYWVBaUWNsOEJjYWFqX1ZGZTluY2ktYmM?oc=5",
-      "source": "뉴스프리존",
-      "published": "2026-10-29T07:36:59+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "대구상의 \"지역 건설업 수익성 악화…경기 회복도 불투명\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGQ2tLSFd2eTUyUmpqcGN3Q21URXhwZ3ZpeWFJQzhrbUdtZzlZc1pURHNTWi1MZC1KSlppOWJJOGNqUmlHZzJzbFh5S3NTeHNWVTdzSW9yMlh3dknSAWBBVV95cUxOblh0RWxsNDF4VXRVRkRRVndfQXZFUW0zR0VhU0g0c3dNVnJGR01RWUFuNldNVHVCd0VhVFFoVFNiRTVhSElZZVBVV0NvalZqdGNsVUltcVpxZDAyVGtyMXk?oc=5",
+      "title": "공항공사, TK신공항 민간공항 여객터미널 사업시행자로 지정",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YTkZzWW42U2t4TU5TdEk2Wkdfb3ZNUzVDNEF0MWdpNHhBQjg1a251QUk0Y2FfaWEzcDlNOWFBMkVBdV9qVHIzZkNIeHNiUmx5ZUFrS1N2VFlyTTJaampMetIBYEFVX3lxTE1YTkZzWW42U2t4TU5TdEk2Wkdfb3ZNUzVDNEF0MWdpNHhBQjg1a251QUk0Y2FfaWEzcDlNOWFBMkVBdV9qVHIzZkNIeHNiUmx5ZUFrS1N2VFlyTTJaampMeg?oc=5",
       "source": "연합뉴스",
-      "published": "2026-10-29T07:32:44+00:00",
-      "category": "건설경기"
-    },
-    {
-      "title": "‘백약이 무효’…제주관광·건설 회복세 난망",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12R1dNSE41WTB6OHc0RFpqWmEtZ1l4LUFlMlF6R1BrbnY2aGEzZ1JtYjZqRFRxZmpHUTdsbHZZRmd1Y1Rqb3ozcUljRDR2b1RQbjlXXzRFNGF3ZmVFQXFhUWRmNmtrWm5nUkhad2lBRQ?oc=5",
-      "source": "제주도민일보",
-      "published": "2026-10-29T07:28:14+00:00",
+      "published": "2026-10-29T21:00:03+00:00",
       "category": "금리·PF·정책"
-    },
-    {
-      "title": "태안군, 43명 설계업계 및 유관기관과 2026년 인허가 간담회 개최",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QTUgzVExBMjlwYmVkU3QtblhtZzZyNV9xY1BKeWNYZU9uT3FOVjVOZWZraG5XaVJXUXhicnA4aTFyVFhZUXN3S3l1ZmYyQjdiZnFuellTX3RmeVZSMnJTTi1LSWxNandpSzZUdmliYV9QaXpN0gF0QVVfeXFMTlBNSDNUTEEyOXBiZWRTdC1uWG1nNnI1X3FjUEp5Y1hlT25PcU5WNU5lZmtobldpUldReGJycDhpMXJUWFlRc3dLeXVmZjJCN2JmcW56WVNfdGZ5VlIyclNOLUtJbE1qd2lLNlR2aWJhX1Bpek0?oc=5",
-      "source": "뉴스워커",
-      "published": "2026-10-29T07:01:00+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "[현장부터 지키는 안전도시]관악구, 건축공사장 3곳 ‘베스트 안전관리상’ 선정…현장 중심 안전관리 강화",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKaGVmekQ5VjZoeEVFSmk5SHZrS241R0hMUlRldFp1Sl9pMHdpbHdQVFM2YVoxeUNXbUJTRUhxQ2FqdG9Od3o4VFhiSkVIMUFKQnhOMzd2UkNEYTQ0RE5MMU5NUHhqdWEzMC1ZUGpWRGs?oc=5",
-      "source": "전국뉴스",
-      "published": "2026-10-29T06:00:57+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "선엔지니어링, 구미 200MW AI 데이터센터 설계·CM 수주",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yT1lPYVN5cU9aZjBNbnJsOG8zRlpSZjJyd3R5T1BxR2JPTGhmVUtsNjRRTUxhYzExeGRia2pUdENxVWg2eHljanlkeHRwNGIxaVFlaWFYYXlnTTE2SjhaRDBYTS15dw?oc=5",
-      "source": "건설이코노미뉴스",
-      "published": "2026-10-29T05:04:16+00:00",
-      "category": "건축·설계"
-    },
-    {
-      "title": "관악구, 건축공사장 안전관리 우수 현장 3곳 선정",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SMS1OVkc3LWIxNnZXS0Z1aGdEenN6Qi1yYnJuQllxTzBtVkVESjRRTFowNURETGcybW1xbDdMSDUyd2EwRjBFb1RDdXF6QWdaVXBvMTc2TDBubGlyckpvX1k4LUEyMjBlcEk0?oc=5",
-      "source": "시정일보",
-      "published": "2026-10-29T05:00:00+00:00",
-      "category": "건축·설계"
     }
   ]
 }
